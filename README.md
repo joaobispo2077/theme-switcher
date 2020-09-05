@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <h1 align="center">
-    <img id="gif" alt="gif ThemeSwitcher" title="#Ecoleta" src=".github/first_dark-mode.gif" width="600px" />
+    <img id="gif" alt="gif ThemeSwitcher" title="#ThemeSwitcher" src=".github/first_dark-mode.gif" width="600px" />
 </h1>
 
 <h4 align="center">
@@ -28,11 +28,11 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <br>
@@ -41,34 +41,34 @@
   <img alt="Proffy Previw" src=".github/proffy.png" width="100%">
 </p> -->
 
-## :rocket: Tecnologias
+## :rocket: Technology
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
 
 
-## 💻 Projeto
+## 💻 Project
 
-O ThemeSwitcher é um projeto para praticar a criação de darkmode em um projeto utilizando react.js com typescript.
+The ThemeSwitcher is a project to pratice the creation of darkmode using React.Js and Typescript.
 
 ## 🔖 Layout
 <a href="#gif">Darkmode</a>
 
-## ♻️ Como contribuir
+## ♻️ How to contribute
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin minha-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After the merge of your pull request is done, you can delete your branch.
 
-## :memo: Licença
+<!-- ## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details. -->
 
 ---
 
-<p align="center">Feito com ♥ e ☕  por <strong><a href="https://www.linkedin.com/in/joão-bispo-2077/">João Bispo</a> 😎</strong> </p>
+<p align="center">Made with ♥ and ☕  by <strong><a href="https://www.linkedin.com/in/joão-bispo-2077/">João Bispo</a> 😎</strong> </p>
